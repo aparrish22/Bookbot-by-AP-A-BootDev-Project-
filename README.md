@@ -1,11 +1,11 @@
 # Bookbot Project by AP!
 
-Sup! This simple python project accepts any .txt file and returns how many words
-and characters are in the text.
+Sup! This simple python project accepts any .txt file and displays how many words
+and characters were in the text.
 BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
-[Check these Instructions to try bookbot out for yourself!](#instructions)
-[Check out my review & what I learned from this project](#review)
+[Try out BookBot!](#instructions)<br>
+[Checkout my Review!](#review)<br>
 
 ## Instructions:
 
